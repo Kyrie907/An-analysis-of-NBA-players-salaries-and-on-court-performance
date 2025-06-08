@@ -73,7 +73,7 @@ cd An-analysis-of-NBA-players-salaries-and-on-court-performance
 
 2. **异常值处理**：  
    - 方法：IQR（四分位距）法，替换异常值为`[Q1-1.5IQR, Q3+1.5IQR]`  
-   - 应用场景：薪资列（Salary）检测到18个异常值，经人工验证后保留合理值（如明星球员高薪）  
+     
 
 
 ## 📊 结果示例  
